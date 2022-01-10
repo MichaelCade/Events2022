@@ -32,23 +32,18 @@ Big shout out to https://github.com/scraly/developers-conferences-agenda for the
 
 ### March
 
-* 14-16: [SREcon Americas - San Francisco](https://usenix.org/conference/srecon22americas)
 
 ### April
 
-* 5-7: [DevConf Cape Town & Joburg](https://www.devconf.co.za/capetown)
-* 11-13: [DevNexus](https://devnexus.com/) - Atlanta (USA)
-* 26-29: [DevOps Con](https://devopscon.io/london/) - London (UK) or Online
 
 ### May
 
-* 5-6: [DevOpsDays Birmingham UK](https://devopsdays.org/events/2022-birmingham-uk/welcome/)
-* 11-13: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
-* 12-13: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
-* 16-18: [VeeamON - Las Vegas]()
+* 5-6: [DevOpsDays Birmingham UK](https://devopsdays.org/events/2022-birmingham-uk/welcome/) (Going)
+* 11-13: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK) (Not sponsoring but may go) 
+* 16-18: [VeeamON - Las Vegas]() 
 * 17-20: [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - Valencia (Spain)
 * 17-20: [GitOpsCon Europe 2022](https://events.linuxfoundation.org/gitopscon-europe/) - Valencia (Spain) <a href="https://events.linuxfoundation.org/gitopscon-europe/program/cfp/"><img alt="CFP GitOpsCon" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2014-Feb-2022&color=green"> </a>
-* 24-25: [DevOpsDays Prague](https://devopsdays.org/events/2022-prague/welcome/)
+
 
 ### June
 * 7-9: [MongoDB World - New York](https://www.mongodb.com/world)
