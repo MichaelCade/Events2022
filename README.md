@@ -27,7 +27,7 @@ Big shout out to https://github.com/scraly/developers-conferences-agenda for the
 ### February
 
 * 5-6: [Fosdem](https://fosdem.org/2022/) - Brussels (Belgium)
-* 15-18: [Cloud Field Day 13]() - Bay Area (In person MC) 
+* 16-18: [Cloud Field Day 13](https://techfieldday.com/event/cfd13/) - Bay Area (In person MC) 
 * 21-25: Hold for internal engineering meetings
 
 ### March
