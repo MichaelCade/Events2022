@@ -27,6 +27,8 @@ Big shout out to https://github.com/scraly/developers-conferences-agenda for the
 ### February
 
 * 5-6: [Fosdem](https://fosdem.org/2022/) - Brussels (Belgium)
+* 15-18: [Cloud Field Day 13]() - Bay Area (In person MC) 
+* 21-25: Hold for internal engineering meetings
 
 ### March
 
@@ -39,6 +41,7 @@ Big shout out to https://github.com/scraly/developers-conferences-agenda for the
 * 26-29: [DevOps Con](https://devopscon.io/london/) - London (UK) or Online
 
 ### May
+
 * 5-6: [DevOpsDays Birmingham UK](https://devopsdays.org/events/2022-birmingham-uk/welcome/)
 * 11-13: [Devoxx UK](https://www.devoxx.co.uk/) - London (UK)
 * 12-13: [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - Geneva (Switzerland)
@@ -51,9 +54,9 @@ Big shout out to https://github.com/scraly/developers-conferences-agenda for the
 * 7-9: [MongoDB World - New York](https://www.mongodb.com/world)
 * 10: [DevFest Lille](http://devfest.gdglille.org) - Lille (France)
 * 14:15 [WeAreDevelopers World Congress - Berlin](https://www.wearedevelopers.com/world-congress/#)
-* 20-23: [DevOps Con](https://devopscon.io/berlin/) - Berlin (Germany) or Online
-* 22-24: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)
-* 22-24: [devopsdays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/) - Amsterdam (NL)
+* 20-23: [DevOps Con](https://devopscon.io/berlin/) - Berlin (Germany) or Online (MC = NO)
+* 22-24: [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland)(MC = NO)
+* 22-24: [devopsdays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/) - Amsterdam (NL) (MC = NO)
 
 ### July
 
@@ -61,6 +64,7 @@ Big shout out to https://github.com/scraly/developers-conferences-agenda for the
 ### August
 
 * 29-1: [VMworld US](https://www.vmware.com/vmworld/en/index.html)
+
 ### October
 
 * 25-28: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/) - Detroit (USA)
