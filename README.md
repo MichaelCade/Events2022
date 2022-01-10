@@ -61,10 +61,10 @@ Big shout out to https://github.com/scraly/developers-conferences-agenda for the
 * 29-1: [VMworld US](https://www.vmware.com/vmworld/en/index.html)
 
 ### October
-
+* 17-19: [All things open]() Will look at attending (Raleigh, NC)
 * 25-28: [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/) - Detroit (USA)
 
 ### November
 
 * 7-10: [VMworld EMEA - ](https://www.vmware.com/vmworld/en/index.html)
-* 7-11: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium)
+
